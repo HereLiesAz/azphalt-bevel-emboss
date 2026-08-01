@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Lights the layer from a single lamp directly overhead, so edges catch a highlight on top and fall into shadow below — a bevelled, embossed relief.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
